@@ -1,0 +1,136 @@
+DerbyMaster
+Copyright (C) 1998-2014 Enterprising Ideas
+All Rights Reserved
+DerbyMaster (TM) is a trademark of Enterprising Ideas
+v8.1
+
+DerbyMaster_Options
+0
+Tiger
+Wolf
+Bear
+Webelos
+Open
+
+
+
+Rank
+Den/Patrol
+Car
+PACK 247
+2016 PINEWOOD DERBY
+0
+False
+16777215
+8388608
+Let It Be Known That<CR><DRIVER><CR>Driving Car <#><CR>Has Been Awarded<CR><AWARD>
+
+DerbyMaster_FinishLine
+2
+
+30000
+1
+40
+10
+True
+11111100
+False
+True
+0
+0
+0
+
+DerbyMaster_Registration
+1	Austin Chaney	Webelos	Raptor
+2	Felix James	Webelos	Raptor
+3	Aimon Maza	Webelos	Raptor
+4	Cameron Pepe	Webelos	Raptor
+5	Mason White	Webelos	Raptor
+6	Tanner Ayers	Webelos	Dragon
+7	Zane Baker	Webelos	Dragon
+8	Leland Bush	Webelos	Dragon
+9	Connor Cobb	Webelos	Dragon
+10	Andrew Hansen	Webelos	Dragon
+11	Ehren Hoesly	Webelos	Dragon
+12	William Horseman	Webelos	Dragon
+13	Cruz Lewis	Webelos	Dragon
+14	West McElhany	Webelos	Dragon
+15	Austin Pare	Webelos	Dragon
+16	Andrew Reinsch	Webelos	Dragon
+17	JP Roberts	Webelos	Dragon
+18	Ben Schliesman	Webelos	Dragon
+19	Mason Sloan	Webelos	Dragon
+
+DerbyMaster_Track
+6
+1
+1 min
+00010000
+
+DerbyMaster_Schedule
+False
+3
+1
+19
+False
+
+DerbyMaster_Results
+#
+0
+
+DerbyMaster_Time
+0
+
+DerbyMaster_Runoff
+
+DerbyMaster_Standings
+1111111111111
+True
+
+DerbyMaster_Awards
+0	Largest Car	
+0	Smallest Car	
+0	Most Original Design	
+0	Most Colorful Car	
+0	Best Paint Job	
+0	Best Workmanship	
+0	Fastest Looking Car	
+0	Best Vehicle Not a Car	
+0	Judge's Favorite Car	
+0	Slowest Car	
+0	Most Humorous Car	
+0	Most Unusual Car	
+0	Best Detail	
+0	Most Realistic Looking Car	
+0	Best Use of Imagination	
+
+DerbyMaster_Statistics
+1/14/2016 7:38:37 PM 
+1/14/2016 7:39:14 PM 
+12:00:36 AM 
+12:00:36 AM 
+1/14/2016 
+1/14/2016 7:38:37 PM 
+1/14/2016 7:38:37 PM 
+12:00:00 AM 
+1/14/2016 
+12:00:00 AM 
+
+DerbyMaster_HTML
+HTML
+C:\ProgramData\Enterprising Ideas\DerbyMaster\8.1.0.0
+0
+65535
+
+DerbyMaster_Sounds
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+

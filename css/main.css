@@ -1,0 +1,190 @@
+@charset "UTF-8";
+body {
+  font-family: "adelle", serif;
+  font-style: normal;
+  font-weight: 300;
+  color: #666;
+}
+
+body em {
+  font-style: strong;
+}
+
+body strong {
+  font-weight: 600;
+}
+
+a {
+  color: #CE1126;
+}
+
+a:hover {
+  color: #ed253b;
+}
+
+blockquote {
+  color: #888;
+  font-style: italic;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "proxima-nova", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+h2 {
+  padding: 6px;
+  background-color: #CE1126;
+  color: white;
+  font-size: 1.125rem;
+}
+
+h4 {
+  font-size: 0.925rem;
+  color: #CE1126;
+}
+
+h5 {
+  font-size: 0.875rem;
+}
+
+h5 sup {
+  font-size: 0.5rem;
+}
+
+h6 {
+  font-size: 0.75rem;
+}
+
+p,
+li {
+  font-size: 0.825rem;
+}
+
+.btn-facebook {
+  background-color: #3B5998;
+}
+
+.btn-facebook:hover {
+  background-color: #4c70ba;
+}
+
+.btn-join {
+  display: block;
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+  text-align: center;
+  border-radius: 0.25rem;
+  color: white;
+}
+
+.btn-join:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.btn-scoutbook {
+  background-color: #CE1126;
+}
+
+.btn-scoutbook:hover {
+  background-color: #ed253b;
+}
+
+.btn-slack {
+  background-color: #6ecadc;
+}
+
+.btn-slack:hover {
+  background-color: #97d9e6;
+}
+
+.den-strip {
+  width: 5rem;
+  padding: 0.1875rem;
+  color: #FCD116;
+  background-color: #003F87;
+  border: 2px solid #FCD116;
+  text-align: center;
+}
+
+.den-meetings--rank,
+.organization--leader {
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 1.25rem;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.den-meetings--rank img,
+.organization--leader img {
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  width: 72px;
+  height: auto;
+  margin-right: 16px;
+  -ms-flex: 0;
+  flex: 0;
+}
+
+.den-meetings--rank figcaption,
+.organization--leader figcaption {
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+}
+
+.den-meetings--rank li,
+.organization--leader li {
+  font-size: 0.75rem;
+}
+
+.den-meetings--rank li sup,
+.organization--leader li sup {
+  font-size: 0.375rem;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.join-cta {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.link-list li,
+.list-calendar li,
+.list-committee li {
+  margin-bottom: 0.5rem;
+}
+
+.link-list li .calendar-date,
+.list-calendar li .calendar-date,
+.list-committee li .calendar-date {
+  font-weight: 700;
+  color: #003F87;
+}
+
+.link-list li .location,
+.list-calendar li .location,
+.list-committee li .location {
+  font-size: 0.625rem;
+}
+
+.open-position {
+  font-weight: 700;
+  color: #CE1126;
+}

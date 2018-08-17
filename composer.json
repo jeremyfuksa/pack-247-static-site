@@ -1,0 +1,12 @@
+{
+    "name": "jeremyfuksa/pack247-frontend",
+    "require": {
+        "johngrogg/ics-parser": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Jeremy Fuksa",
+            "email": "hello@orangefla.me"
+        }
+    ]
+}

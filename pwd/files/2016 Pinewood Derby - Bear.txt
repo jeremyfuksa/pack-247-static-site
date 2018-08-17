@@ -1,0 +1,128 @@
+DerbyMaster
+Copyright (C) 1998-2014 Enterprising Ideas
+All Rights Reserved
+DerbyMaster (TM) is a trademark of Enterprising Ideas
+v8.1
+
+DerbyMaster_Options
+0
+Tiger
+Wolf
+Bear
+Webelos
+Open
+
+
+
+Rank
+Den/Patrol
+Car
+PACK 247
+2016 PINEWOOD DERBY
+0
+False
+16777215
+8388608
+Let It Be Known That<CR><DRIVER><CR>Driving Car <#><CR>Has Been Awarded<CR><AWARD>
+
+DerbyMaster_FinishLine
+2
+
+30000
+1
+40
+10
+True
+11111100
+False
+True
+0
+0
+0
+
+DerbyMaster_Registration
+1	Chase Branstetter	Bear	Den 4
+2	Roland Buchholz	Bear	Den 4
+3	Dustin Conner	Bear	Den 4
+4	Trent Dolato	Bear	Den 4
+5	Madi Elahsadi	Bear	Den 4
+6	Cale Grigsby	Bear	Den 4
+7	Freddie Lewis	Bear	Den 4
+8	Zach McCall	Bear	Den 4
+9	Brayden Taylor	Bear	Den 4
+10	Andrew Wages	Bear	Den 4
+11	Nathan Watts	Bear	Den 4
+
+DerbyMaster_Track
+6
+6
+1 min
+11111110
+
+DerbyMaster_Schedule
+False
+3
+6
+0
+False
+
+DerbyMaster_Results
+#
+0
+
+DerbyMaster_Time
+0
+
+DerbyMaster_Runoff
+
+DerbyMaster_Standings
+1111111111111
+True
+
+DerbyMaster_Awards
+0	Largest Car	
+0	Smallest Car	
+0	Most Original Design	
+0	Most Colorful Car	
+0	Best Paint Job	
+0	Best Workmanship	
+0	Fastest Looking Car	
+0	Best Vehicle Not a Car	
+0	Judge's Favorite Car	
+0	Slowest Car	
+0	Most Humorous Car	
+0	Most Unusual Car	
+0	Best Detail	
+0	Most Realistic Looking Car	
+0	Best Use of Imagination	
+
+DerbyMaster_Statistics
+1/14/2016 7:38:37 PM 
+1/14/2016 7:39:14 PM 
+12:00:36 AM 
+12:00:36 AM 
+1/14/2016 
+1/14/2016 7:38:37 PM 
+1/14/2016 7:38:37 PM 
+12:00:00 AM 
+1/14/2016 
+12:00:00 AM 
+
+DerbyMaster_HTML
+HTML
+C:\ProgramData\Enterprising Ideas\DerbyMaster\8.1.0.0
+0
+65535
+
+DerbyMaster_Sounds
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+
